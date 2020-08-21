@@ -9,8 +9,7 @@
 <br />
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][![linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/aniket-chowdhury/)
 <br />
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter][![twitter](https://img.shields.io/website?label=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com)](https://twitter.com/anikebiprojit)
-<br />
+
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram][![instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Finstagram.com)](https://www.instagram.com/aniketbiprojit/)
 <br />
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp][![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/9660629107)
@@ -43,13 +42,12 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-  <img align="left" alt="aniket's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniketbiprojit&count_private=true&show_icons=true&hide_border=true&hide=star" />
+  <img align="left" alt="aniket's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aniketbiprojit&count_private=true&show_icons=true&hide_border=true&hide=stars" />
   <img align="left" alt="aniket's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketbiprojit&show_icons=true&hide_border=true" />
 
 </details>
 
 [website]: https://aniketbiprojit.me
-[twitter]: https://twitter.com/aniketbiprojit
 [instagram]: https://instagram.com/aniketbiprojit
 [linkedin]: https://linkedin.com/in/aniketbiprojit
 [whatsapp]: https://wa.me/9660629107
