@@ -48,6 +48,6 @@
 
 [website]: https://aniketbiprojit.me
 [instagram]: https://instagram.com/aniketbiprojit
-[linkedin]: https://linkedin.com/in/aniketbiprojit
+[linkedin]: https://linkedin.com/in/aniket-chowdhury
 [whatsapp]: https://wa.me/9660629107
 
