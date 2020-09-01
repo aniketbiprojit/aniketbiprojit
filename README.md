@@ -8,6 +8,7 @@
 [![Website](https://img.shields.io/website?label=aniketbiprojit.me&style=for-the-badge&url=https%3A%2F%2Faniketbiprojit.me)](https://aniketbiprojit.me)
 <br />
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][![linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/aniket-chowdhury/)
+<br/>
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram][![instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Finstagram.com)](https://www.instagram.com/aniketbiprojit/)
 <br />
 [<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp][![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/9660629107)
