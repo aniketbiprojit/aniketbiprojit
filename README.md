@@ -2,7 +2,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to Netflix and game 
+- ⚡ Fun fact: I love Music 
 ### Connect with me:
 [<img align="left" alt="aniketbiprojit.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
 [![Website](https://img.shields.io/website?label=aniketbiprojit.me&style=for-the-badge&url=https%3A%2F%2Faniketbiprojit.me)](https://aniketbiprojit.me)
