@@ -1,19 +1,3 @@
-### Hi there, I'm Aniket👋
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love Music 
-### Connect with me:
-[<img align="left" alt="aniketbiprojit.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg"/>][website]
-[![Website](https://img.shields.io/website?label=aniketbiprojit.me&style=for-the-badge&url=https%3A%2F%2Faniketbiprojit.me)](https://aniketbiprojit.me)
-<br />
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][![linkedin](https://img.shields.io/website?label=Linkedin&style=for-the-badge&url=https%3A%2F%2Flinkedin.com)](https://www.linkedin.com/in/aniket-chowdhury/)
-<br/>
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram][![instagram](https://img.shields.io/website?label=Instagram&style=for-the-badge&url=https%3A%2F%2Finstagram.com)](https://www.instagram.com/aniketbiprojit/)
-<br />
-[<img align="left" alt="" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp][![whatsapp](https://img.shields.io/website?label=Whatsapp&style=for-the-badge&url=https%3A%2F%2Fwhatsapp.com)](https://wa.me/9660629107)
-<br />
-
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
@@ -36,18 +20,3 @@
 
 <br />
 <br />
-
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="aniket's Github Stats" src="https://github-readme-stats.aaryan-kapur.vercel.app//api?username=aniketbiprojit&count_private=true&show_icons=true&hide_border=true&hide=stars" />
-  <img align="left" alt="aniket's Github Stats" src="https://github-readme-stats.aaryan-kapur.vercel.app/api/top-langs/?username=aniketbiprojit&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://aniketbiprojit.me
-[instagram]: https://instagram.com/aniketbiprojit
-[linkedin]: https://linkedin.com/in/aniket-chowdhury
-[whatsapp]: https://wa.me/9660629107
-
