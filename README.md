@@ -1,3 +1,4 @@
+
 ### Languages and Tools:
 [<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][linkedin]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][linkedin]
@@ -20,3 +21,10 @@
 
 <br />
 <br />
+
+
+
+[website]: https://aniketbiprojit.me
+[instagram]: https://instagram.com/aniketbiprojit
+[linkedin]: https://linkedin.com/in/aniket-chowdhury
+[whatsapp]: https://wa.me/9660629107
